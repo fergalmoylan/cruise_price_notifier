@@ -1,0 +1,13 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+lib/
+include/
+venv/
+logs/
+resources/*
+pyenv.cfg
+bin/
+.idea/
+.DS*
+pyenv.cfg
+cruise_price_notifier.egg-info/
+.env

@@ -1,0 +1,4 @@
+url = "https://www.royalcaribbean.com/gbr/en/cruises?search=destination:BAHAM,CARIB,EUROP,FAR.E,HAWAI,MEXCO,SOPAC|nights:6~8,9~11,gte12|ship:AL,AN,HM,IC,OA,OV,OY,QN,SC,ST,SY,WN&sort=by:PRICE|order:DESC&icid:srchrs_wrnssn_flt_gnrlmr_cntntr_3315&mxPDIButton:true&pdi:undefined&country=IRL&market=gbr&language=en"
+recipients =  []
+headers = ["Balcony", "Suite"]
+sort_by = "Suite"

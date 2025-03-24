@@ -1,0 +1,4 @@
+url = "https://www.royalcaribbean.com/gbr/en/cruises?search=destination:BAHAM,BERMU,CARIB,DUIND,EUROP,FAR.E|nights:6~8,9~11,gte12&country=IRL&market=gbr&language=en"
+recipients =  []
+headers = ["Ocean View", "Balcony", "Suite"]
+sort_by = "Suite"
